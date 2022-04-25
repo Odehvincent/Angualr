@@ -1,0 +1,283 @@
+/* settig the weight and height of the google map */
+.footer_width iframe{
+  width:550px;
+   height:350px;
+}
+.foot p{
+  width: 100%;
+ padding:  5px 10px;
+ font-size: 15px;
+ font-family: 'Libre' 'Franklin';
+ line-height: 1.8;
+
+}
+
+.fot{
+  width: 270px;
+}
+
+
+footer{
+  background-color: #0F2345;
+  color: #fff;
+  width: 100%;
+
+}
+
+.footer_info{
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  padding: 50px 0;
+}
+
+.footer_info .footer_width{
+padding: 0 75px;
+}
+
+.footer_info h2{
+  margin-bottom: 20px;
+}
+
+.about {
+  width: 40%;
+  margin-right: -100px;  
+}
+
+.contact {
+  width: 40%;
+}
+
+/* Address details css */
+.link{
+  width: 30%;
+}
+
+/* Address details css */
+.link p{
+display: block;
+font-size: 25px;
+font-family: 'Libre' 'Franklin';
+}
+
+/* Address details css */
+.link h2{
+  display: block;
+  font-size: 25px;
+  font-family: 'Libre' 'Franklin';
+  }
+
+/* Text under footer in transforming training css */
+.part{
+  margin-left: -300px; 
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Libre' 'Franklin';
+  margin-top: 10px;
+  }
+
+  /* style for social-mdeia css */
+.social-mdeia{
+  margin-top: 5px;
+}
+
+.social-mdeia p{
+  display: inline-block;
+  /* width: 50px;
+  height: 50px; */
+  background-color: transparent; 
+  padding: 5px;
+  
+}
+
+.copy-right{
+  padding: 15px 0;
+  text-align: center;
+  background-color: #323233;
+}
+
+.copy-right a{
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+}
+/* For Big screen  */
+/* @media screen and (max-width:1268px) {
+  footer{
+    width: 100%;
+  }
+  .about , .contact{
+    width: 30%;
+  }
+  .link{
+    width: -45%;
+  }
+  style for map
+  .footer_width iframe{
+    width: 370px;
+     height:300px;
+  }
+  .fot{
+    width: 150px;
+  }  
+  .link{
+    width: 30%;
+  }
+  
+} */
+
+
+/* For Ipad screen  */
+@media screen and (max-width:768px) {
+ 
+  footer{
+    width: 100%;
+  }
+  /* Text under footer in transforming training css */
+  .part{
+    margin-left: -20px; 
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Libre' 'Franklin';
+    margin-top: 10px;
+    }
+ 
+/* settig the weight and height of the google map */
+  .footer_width iframe{
+    width: 240px;
+     height:300px;
+     margin-left: -110px;
+  }
+  .fot{
+    width: 150px;
+  }  
+
+  /* Address details css */
+
+  .link{
+    margin-left: 40px;
+
+  }
+    /* Address details css */
+
+  .link p{
+    display: inline-block;
+    font-size: 10px;
+    font-family: 'Libre' 'Franklin';
+    }
+    
+    /* Address details css */
+    .link h2{
+      display: block;
+      font-size: 25px;
+      font-family: 'Libre' 'Franklin';
+      }
+
+        /* style for social-mdeia css */
+.social-mdeia{
+  margin-top: 5px;
+}
+
+.social-mdeia img{
+  margin-top: -5px;
+  width: 12px;
+  margin-left: -5px;
+
+}
+
+.social-mdeia p{
+  display: inline-block;
+  /* width: 50px;
+  height: 50px; */
+  background-color: transparent; 
+  
+}
+
+  
+}
+
+/* For Smaller screen  */
+@media screen and (max-width:390px) {
+  footer{
+    width: 100%;
+  }
+ 
+  .footer_info{
+    flex-direction: column;
+    
+  }
+
+  .contact iframe{
+    width: 350px;
+    padding: 45px;
+  }
+
+  .footer_width iframe{
+    width: 300px;
+     height:300px;
+     margin-right: -150px;
+     float: right;
+  }
+
+/* css code for Partner image */
+.look img{
+  width: 120px;
+  float: right;
+  margin-right: -5px;
+}
+
+/* Text under footer in transforming training css */
+.part p{
+  margin-right: -80px; 
+  font-size: 15px;
+  font-family: 'Libre' 'Franklin';
+  margin-top: 10px;
+  }
+
+  .data img {
+margin-left: -15px;
+    width: 270px;
+  }
+
+ 
+
+        /* style for social-mdeia css */
+.social-mdeia{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  margin-top: 0;
+
+}
+
+.social-mdeia p {
+  display: inline-block;
+  margin-left: -40px;
+  margin-top: 220px;
+}
+
+
+.link {
+  margin-top: 70px;
+
+}
+
+.link h2{
+  margin-top: -30px;
+  margin-left: -90px;
+  float: left;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+.foot p{
+  margin-left: -90px;
+  float: left;
+  font-size: 15px;
+ font-family: 'Libre' 'Franklin';
+}
+
+
+  
+}

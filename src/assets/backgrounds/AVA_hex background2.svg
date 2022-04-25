@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:serif="http://www.serif.com/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 595.3 334.8"
+	 style="enable-background:new 0 0 595.3 334.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{opacity:0.4;}
+	.st2{fill:none;stroke:#C8EEFC;stroke-width:1.861;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#C8EEFC;stroke-width:1.3945;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{opacity:0.25;}
+	.st5{fill:none;stroke:#C8EEFC;stroke-width:1.8625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.0871;}
+	.st6{fill:none;stroke:#C8EEFC;stroke-width:1.3928;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.6581;}
+	.st7{fill:none;stroke:#C8EEFC;stroke-width:1.3935;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.2902;}
+	.st8{fill:none;stroke:#C8EEFC;stroke-width:1.8599;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.1159;}
+	.st9{fill:none;stroke:#C8EEFC;stroke-width:1.3957;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.7021;}
+	.st10{fill:none;stroke:#C8EEFC;stroke-width:1.8583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#C8EEFC;stroke-width:1.3972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#C8EEFC;stroke-width:1.8613;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#C8EEFC;stroke-width:1.3962;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#C8EEFC;stroke-width:1.8625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#C8EEFC;stroke-width:1.3908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.4796;}
+	.st16{fill:none;stroke:#C8EEFC;stroke-width:1.8603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#C8EEFC;stroke-width:1.3947;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.0305;}
+	.st18{fill:none;stroke:#C8EEFC;stroke-width:1.8608;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#C8EEFC;stroke-width:1.3982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.2559;}
+	.st20{fill:none;stroke:#C8EEFC;stroke-width:1.863;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.2588;}
+	.st21{fill:none;stroke:#C8EEFC;stroke-width:1.3952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.92;}
+	.st22{fill:none;stroke:#C8EEFC;stroke-width:1.8586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st23{fill:none;stroke:#C8EEFC;stroke-width:1.3916;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.1045;}
+	.st24{fill:none;stroke:#C8EEFC;stroke-width:1.8611;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st25{fill:none;stroke:#C8EEFC;stroke-width:1.3958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st26{fill:none;stroke:#C8EEFC;stroke-width:1.8604;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st27{fill:none;stroke:#C8EEFC;stroke-width:1.3963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st28{fill:none;stroke:#C8EEFC;stroke-width:1.8596;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st29{fill:none;stroke:#C8EEFC;stroke-width:1.394;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st30{fill:none;stroke:#C8EEFC;stroke-width:1.8605;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st31{fill:none;stroke:#C8EEFC;stroke-width:1.3967;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st32{fill:none;stroke:#C8EEFC;stroke-width:1.8597;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st33{fill:none;stroke:#C8EEFC;stroke-width:1.3923;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.2972;}
+	.st34{fill-rule:evenodd;clip-rule:evenodd;fill:#C8EEFC;}
+	.st35{fill:none;stroke:#C8EEFC;stroke-width:2.3203;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.7667;}
+	.st36{fill-rule:evenodd;clip-rule:evenodd;fill:#C8EEFC;fill-opacity:0.6;}
+	.st37{fill:none;stroke:#C8EEFC;stroke-width:2.3213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.232;}
+</style>
+<rect class="st0" width="595.3" height="334.8"/>
+<g transform="matrix(0.367785,0,0,0.367785,285.016,82.2237)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="381.5" cy="-23" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="454.2" cy="-23" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st2" cx="899.4" cy="-405.5" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st2" cx="972.1" cy="-405.5" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st2" cx="1489.5" cy="-148.3" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st2" cx="1562.2" cy="-148.3" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st3" d="M430.7-132.7l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L430.7-132.7z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.367785,0,0,0.367785,1009.59,419.196)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="-450.5" cy="-410" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="-377.8" cy="-410" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st2" cx="818.5" cy="-1319.6" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st2" cx="891.1" cy="-1319.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st2" cx="2240.7" cy="-675.4" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st2" cx="2313.3" cy="-675.4" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st3" d="M684.4-678.2l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L684.4-678.2z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.367785,0,0,0.367785,199.479,457.292)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="479.8" cy="-453.7" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="552.4" cy="-453.7" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st2" cx="1321.5" cy="-535.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st2" cx="1394.2" cy="-535.8" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st2" cx="1813.4" cy="152.2" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st2" cx="1886.1" cy="152.1" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st3" d="M713.1-68.3L731-57.9v20.7l-17.9,10.4l-17.9-10.4v-20.7L713.1-68.3z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.367785,0,0,0.367785,700.438,-70.8076)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="-95.5" cy="152.7" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="-22.8" cy="152.7" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st2" cx="508.7" cy="-730.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st2" cx="581.3" cy="-730.8" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st2" cx="1575.9" cy="-649.3" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st2" cx="1648.5" cy="-649.3" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st3" d="M315.5-445.4l17.9,10.4v20.7L315.5-404l-17.9-10.4v-20.7L315.5-445.4z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.367785,0,0,0.367785,87.7511,499.118)">
+	<g class="st4">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="608.1" cy="-501.8" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="680.7" cy="-501.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st2" cx="1427.3" cy="-448.7" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st2" cx="1499.9" cy="-448.7" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st2" cx="1790.9" cy="287.3" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st2" cx="1863.5" cy="287.3" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st3" d="M744.5,15.8l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4V26.2L744.5,15.8z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(1.2303,0,0,1.2303,-16.3917,-97.2247)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st5" cx="714.5" cy="104.8" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st5" cx="787.1" cy="104.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 523.7455 800.5651)" class="st5" cx="955.2" cy="-53.3" rx="2" ry="2"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 560.0723 863.4842)" class="st5" cx="1027.8" cy="-53.3" rx="2" ry="2"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 124.3574 616.412)" class="st5" cx="1212.4" cy="76.2" rx="2" ry="2"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 134.0913 652.7388)" class="st5" cx="1285.1" cy="76.2" rx="2" ry="2"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st6" d="M346.9,85.6l17.9,10.4v20.7L346.9,127L329,116.7V95.9L346.9,85.6z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.957371,0,0,0.957371,487.932,115.304)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="493.6" cy="20.5" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="566.2" cy="20.5" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 707.1362 651.4032)" class="st2" cx="917.7" cy="-286.7" rx="1.6" ry="1.6"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 743.4629 714.3224)" class="st2" cx="990.4" cy="-286.7" rx="1.6" ry="1.6"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 223.5083 688.1239)" class="st2" cx="1395.8" cy="-73" rx="1.6" ry="1.6"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 233.2422 724.4507)" class="st2" cx="1468.5" cy="-73" rx="1.6" ry="1.6"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st7" d="M402.1-59.2l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L402.1-59.2z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(1.26295,0,0,1.26295,270.369,-146.399)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st8" cx="618.4" cy="120.3" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st8" cx="691.1" cy="120.3" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 558.2713 709.602)" class="st8" cx="893.7" cy="-128.7" rx="2.1" ry="2.1"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 594.5981 772.5212)" class="st8" cx="966.3" cy="-128.7" rx="2.1" ry="2.1"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 174.4647 621.4883)" class="st8" cx="1246.9" cy="-14.8" rx="2.1" ry="2.1"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 184.1986 657.815)" class="st8" cx="1319.6" cy="-14.8" rx="2.1" ry="2.1"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st9" d="M336.7,22.6L354.6,33v20.7L336.7,64l-17.9-10.4V33L336.7,22.6z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.740552,0,0,0.740552,452.372,-58.5609)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st10" cx="450.8" cy="104.8" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st10" cx="523.5" cy="104.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st10" cx="823.4" cy="-281.6" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st10" cx="896" cy="-281.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st10" cx="1344.2" cy="-152.2" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st10" cx="1416.9" cy="-152.2" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st11" d="M346.9-87.2l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L346.9-87.2z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.740552,0,0,0.740552,215.292,337.217)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st10" cx="586.1" cy="-120.9" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st10" cx="658.7" cy="-120.9" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st10" cx="1086.4" cy="-277.3" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st10" cx="1159.1" cy="-277.3" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st10" cx="1472.1" cy="77.8" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st10" cx="1544.7" cy="77.8" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st11" d="M494.9,1.4l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4V11.8L494.9,1.4z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.517999,0,0,0.517999,566.501,-12.8084)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st12" cx="247" cy="81.8" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st12" cx="319.6" cy="81.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st12" cx="741.3" cy="-469.6" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st12" cx="813.9" cy="-469.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st12" cx="1466" cy="-317.3" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st12" cx="1538.7" cy="-317.3" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st13" d="M361.9-220.9l17.9,10.4v20.7l-17.9,10.4L344-189.9v-20.7L361.9-220.9z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.517999,0,0,0.517999,836.396,426.171)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st12" cx="26.9" cy="-276.1" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st12" cx="99.6" cy="-276.1" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st12" cx="941.2" cy="-839.2" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st12" cx="1013.9" cy="-839.2" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st12" cx="1886" cy="-328.9" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st12" cx="1958.7" cy="-328.9" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st13" d="M596.6-365.2l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L596.6-365.2z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(1.09785,0,0,1.09785,99.8005,-206.473)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st14" cx="670.4" cy="150.8" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st14" cx="743.1" cy="150.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 505.8716 739.4163)" class="st14" cx="893.3" cy="-68.4" rx="1.8" ry="1.8"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 542.1984 802.3355)" class="st14" cx="965.9" cy="-68.4" rx="1.8" ry="1.8"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 152.5372 599.2827)" class="st14" cx="1194.5" cy="15" rx="1.8" ry="1.8"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 162.2712 635.6095)" class="st14" cx="1267.2" cy="15" rx="1.8" ry="1.8"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st15" d="M316.7,56.7l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4V67.1L316.7,56.7z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.764681,0,0,0.764681,442.157,161.657)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st16" cx="464.6" cy="-17.9" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st16" cx="537.3" cy="-17.9" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st16" cx="936.5" cy="-331" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st16" cx="1009.1" cy="-331" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st16" cx="1443.6" cy="-78.9" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st16" cx="1516.2" cy="-78.9" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st17" d="M427.3-78.2l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L427.3-78.2z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.931864,0,0,0.931864,297.343,19.1804)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st18" cx="574.1" cy="62.7" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st18" cx="646.7" cy="62.7" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 630.3709 700.0201)" class="st18" cx="921.4" cy="-195.9" rx="1.5" ry="1.5"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 666.6976 762.9392)" class="st18" cx="994.1" cy="-195.9" rx="1.5" ry="1.5"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 188.9151 656.2545)" class="st18" cx="1319" cy="-24.4" rx="1.5" ry="1.5"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 198.6491 692.5812)" class="st18" cx="1391.7" cy="-24.4" rx="1.5" ry="1.5"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st19" d="M374.5-6.4l17.9,10.4v20.7L374.5,35l-17.9-10.4V3.9L374.5-6.4z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(1.42464,0,0,1.42464,-227.227,-127.814)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st20" cx="776.2" cy="109.3" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st20" cx="848.8" cy="109.3" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 488.9678 851.7711)" class="st20" cx="982.1" cy="2.4" rx="2.4" ry="2.4"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 525.2946 914.6902)" class="st20" cx="1054.8" cy="2.4" rx="2.4" ry="2.4"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 94.0949 605.8834)" class="st20" cx="1177.6" cy="127.4" rx="2.4" ry="2.4"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 103.8289 642.2101)" class="st20" cx="1250.3" cy="127.4" rx="2.4" ry="2.4"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st21" d="M343.9,126.1l17.9,10.4v20.7l-17.9,10.4L326,157.1v-20.7L343.9,126.1z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.819533,0,0,0.819533,93.1683,-30.5059)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st22" cx="660.8" cy="87.1" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st22" cx="733.5" cy="87.1" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st22" cx="943.7" cy="-108.6" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st22" cx="1016.3" cy="-108.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st22" cx="1254.5" cy="38.5" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st22" cx="1327.2" cy="38.5" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st23" d="M358.5,50.4l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4V60.8L358.5,50.4z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.819533,0,0,0.819533,6.50783,80.7537)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st22" cx="705.5" cy="29.8" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st22" cx="778.1" cy="29.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st22" cx="1015.6" cy="-98.6" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st22" cx="1088.3" cy="-98.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st22" cx="1281.8" cy="105.9" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st22" cx="1354.5" cy="105.9" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st23" d="M396.1,79.7L414,90.1v20.7l-17.9,10.4l-17.9-10.4V90.1L396.1,79.7z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.524836,0,0,0.524836,124.982,182.573)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st24" cx="608.3" cy="-75.5" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st24" cx="680.9" cy="-75.5" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st24" cx="1058.2" cy="-235.4" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st24" cx="1130.9" cy="-235.4" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st24" cx="1421.7" cy="74.3" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st24" cx="1494.3" cy="74.3" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st25" d="M465.1,16L483,26.3V47l-17.9,10.4L447.2,47V26.3L465.1,16z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.524836,0,0,0.524836,893.863,-55.6752)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st24" cx="-10.5" cy="116.2" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st24" cx="62.2" cy="116.2" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st24" cx="582.8" cy="-675.4" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st24" cx="655.5" cy="-675.4" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st24" cx="1565" cy="-557.4" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st24" cx="1637.6" cy="-557.4" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st25" d="M339.4-389.7l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L339.4-389.7z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.524836,0,0,0.524836,522.936,-55.6752)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st24" cx="288" cy="116.2" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st24" cx="360.7" cy="116.2" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st24" cx="732.1" cy="-416.9" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st24" cx="804.7" cy="-416.9" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st24" cx="1415.7" cy="-298.9" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st24" cx="1488.4" cy="-298.9" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st25" d="M339.4-194l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L339.4-194z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.524836,0,0,0.524836,-93.9904,279.641)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st24" cx="784.5" cy="-153.6" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st24" cx="857.1" cy="-153.6" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st24" cx="1214" cy="-121.9" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st24" cx="1286.6" cy="-121.9" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st24" cx="1401.2" cy="266" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st24" cx="1473.8" cy="266" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st25" d="M516.3,131.5l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L516.3,131.5z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.385622,0,0,0.385622,177.084,272.756)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st26" cx="514.9" cy="-227.3" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st26" cx="587.5" cy="-227.3" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st26" cx="1143" cy="-392.2" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st26" cx="1215.7" cy="-392.2" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st26" cx="1599.8" cy="69.4" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st26" cx="1672.5" cy="69.4" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st27" d="M564.6-45.3l17.9,10.4v20.7L564.6-3.8l-17.9-10.4v-20.7L564.6-45.3z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.671683,0,0,0.671683,661.31,354.925)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st28" cx="293" cy="-151.8" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st28" cx="365.7" cy="-151.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st28" cx="966.6" cy="-546.5" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st28" cx="1039.3" cy="-546.5" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st28" cx="1645.3" cy="-160.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st28" cx="1718" cy="-160.6" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st29" d="M515.1-190.7l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L515.1-190.7z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.493518,0,0,0.493518,722.757,469.907)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st30" cx="90.3" cy="-330.8" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st30" cx="163" cy="-330.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st30" cx="1020.3" cy="-811.6" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st30" cx="1092.9" cy="-811.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st30" cx="1901.6" cy="-246.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st30" cx="1974.3" cy="-246.6" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st31" d="M632.4-323.6l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L632.4-323.6z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.524836,0,0,-0.524836,-189.635,858.839)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st24" cx="861.4" cy="762.5" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st24" cx="934.1" cy="762.5" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st24" cx="459.1" cy="402.9" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st24" cx="531.7" cy="402.9" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st24" cx="569.3" cy="-125.4" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st24" cx="642" cy="-125.4" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st25" d="M-84.3,182l17.9,10.4V213l-17.9,10.4l-17.9-10.4v-20.7L-84.3,182z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.385622,0,0,-0.385622,-190.033,740.218)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st26" cx="917" cy="882.1" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st26" cx="989.6" cy="882.1" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st26" cx="383.3" cy="510.7" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st26" cx="455.9" cy="510.7" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st26" cx="438" cy="-137.1" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st26" cx="510.6" cy="-137.1" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st27" d="M-162.7,218.4l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L-162.7,218.4z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.385622,0,0,0.385622,254.565,356.323)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st26" cx="430" cy="-318.9" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st26" cx="502.7" cy="-318.9" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st26" cx="1179.8" cy="-511.4" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st26" cx="1252.5" cy="-511.4" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st26" cx="1721.5" cy="41.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st26" cx="1794.2" cy="41.6" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st27" d="M624.6-100.9l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L624.6-100.9z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.367785,0,0,0.367785,217.92,348.653)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="458.6" cy="-329" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="531.2" cy="-329" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st2" cx="1202.9" cy="-491.8" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st2" cx="1275.5" cy="-491.8" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st2" cx="1716" cy="71.4" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st2" cx="1788.6" cy="71.4" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st3" d="M631.3-82.2l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L631.3-82.2z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.367785,0,0,0.367785,85.2584,306.521)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="610.9" cy="-280.6" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="683.6" cy="-280.6" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st2" cx="1237.1" cy="-335.6" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st2" cx="1309.8" cy="-335.6" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st2" cx="1597.9" cy="179.2" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st2" cx="1670.6" cy="179.2" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st3" d="M599.5,17.7l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4V28.1L599.5,17.7z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.367785,0,0,0.367785,-114.788,486)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="840.6" cy="-486.7" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="913.3" cy="-486.7" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st2" cx="1530.5" cy="-239.7" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st2" cx="1603.1" cy="-239.7" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st2" cx="1661.5" cy="481.2" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st2" cx="1734.2" cy="481.2" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st3" d="M734.7,168.3l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L734.7,168.3z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.367785,0,0,0.367785,958.665,-23.8355)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st2" cx="-392" cy="98.7" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st2" cx="-319.4" cy="98.7" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<circle class="st2" cx="407.1" cy="-1014.5" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<circle class="st2" cx="479.8" cy="-1014.5" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<circle class="st2" cx="1770.9" cy="-879.1" r="1.3"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<circle class="st2" cx="1843.5" cy="-879.1" r="1.3"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st3" d="M350.8-639.8l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L350.8-639.8z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(0.962517,0,0,0.962517,-327.194,190.918)">
+	<g class="st1">
+		<g transform="matrix(1.26663,0,0,1.26663,-568.381,88.8857)">
+			<circle class="st32" cx="852.4" cy="-12.4" r="1.3"/>
+		</g>
+		<g transform="matrix(1.26663,0,0,1.26663,-740.408,88.8857)">
+			<circle class="st32" cx="925.1" cy="-12.4" r="1.3"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-229.893,1268.45)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 556.2274 978.5975)" class="st32" cx="1125.6" cy="7.6" rx="1.6" ry="1.6"/>
+		</g>
+		<g transform="matrix(0.633315,-1.09693,1.09693,0.633315,-315.906,1417.43)">
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 592.5542 1041.5166)" class="st32" cx="1198.3" cy="7.6" rx="1.6" ry="1.6"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,960.885,1565.09)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 39.6925 656.5049)" class="st32" cx="1244.9" cy="254.2" rx="1.6" ry="1.6"/>
+		</g>
+		<g transform="matrix(-0.633315,-1.09693,1.09693,-0.633315,1046.9,1714.07)">
+			<ellipse transform="matrix(0.866 -0.5 0.5 0.866 49.4265 692.8316)" class="st32" cx="1317.6" cy="254.2" rx="1.6" ry="1.6"/>
+		</g>
+		<g transform="matrix(1.18296e-16,-1.93192,1.93192,1.18296e-16,91.2165,891.731)">
+			<path class="st33" d="M423.7,176l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L423.7,176z"/>
+		</g>
+	</g>
+</g>
+<g transform="matrix(2.09859e-16,-3.42725,3.42725,2.09859e-16,-64.9906,1456.78)">
+	<path class="st34" d="M349.2,117.3l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4v-20.7L349.2,117.3z"/>
+</g>
+<g transform="matrix(1.58268e-16,-2.58472,2.66495,1.63181e-16,331.117,809.229)">
+	<path class="st34" d="M289.3,40.7L307.3,51v20.7l-17.9,10.4l-17.9-10.4V51L289.3,40.7z"/>
+</g>
+<g transform="matrix(1.55078e-16,-2.53261,2.53261,1.55078e-16,50.2749,827.856)">
+	<path class="st35" d="M296.7,96.5l17.9,10.4v20.7L296.7,138l-17.9-10.4v-20.7L296.7,96.5z"/>
+</g>
+<g transform="matrix(1.41039e-16,-2.30335,2.30335,1.41039e-16,275.852,916.203)">
+	<path class="st36" d="M334.6,43.1l17.9,10.4v20.7l-17.9,10.4l-17.9-10.4V53.4L334.6,43.1z"/>
+</g>
+<g transform="matrix(1.89849e-16,-3.10048,3.08341,1.88805e-16,-263.674,1318.72)">
+	<path class="st36" d="M349.4,152.9l17.9,10.4V184l-17.9,10.4L331.4,184v-20.7L349.4,152.9z"/>
+</g>
+<g transform="matrix(1.95921e-16,-3.19963,3.19963,1.95921e-16,242.399,1258.56)">
+	<path class="st37" d="M332.3,66.6L350.2,77v20.7L332.3,108l-17.9-10.4V77L332.3,66.6z"/>
+</g>
+</svg>
