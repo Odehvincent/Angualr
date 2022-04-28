@@ -13,6 +13,7 @@ import {MatButtonModule} from '@angular/material/button';
 import {FlexLayoutModule} from '@angular/flex-layout';
 import { AboutComponent } from './about/about.component';
 import { BodyComponent } from './body/body.component';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -25,7 +26,7 @@ import { BodyComponent } from './body/body.component';
     BodyComponent
   ],
   imports: [
-    BrowserModule, MatCardModule,
+    BrowserModule, MatCardModule, FormsModule,
     AppRoutingModule,MatToolbarModule,MatButtonModule,FlexLayoutModule,
     BrowserAnimationsModule
   ],

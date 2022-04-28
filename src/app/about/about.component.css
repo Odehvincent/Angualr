@@ -1,6 +1,108 @@
-.case p{
-    margin-top: -400px;
+.content {
+    padding: 66px;
 }
+
+	
+.text-block {
+    position: absolute;
+    bottom: 350px;
+    left: 20px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .text-block p{
+    font-size: 50px;
+     font-family: Libre, Franklin;
+	 line-height: 1.4;
+	}
+
+
+.do{
+    margin-top: 90px;
+}
+.content mat-card-content p{
+    /* font-style: normal;     */
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: Libre, Franklin;
+    font-weight: 100;
+}
+
+.content mat-card-subtitle{
+	position: relative;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: -235px;
+    font-weight: 300;
+
+}
+.content mat-card-image{
+    background-image: cover;
+	position: fixed;
+
+}
+
+.content h1 {
+    text-align: center;
+    color: #0F2345;
+    font-size: 40px;
+    font-family: 'Libre','Franklin';
+	margin-top: -100px;
+
+    /* Add the right color and fonts to the Meet the team text-align */
+}
+
+
+.content mat-card-title {
+    text-align: center;
+}
+
+.content mat-card-subtitle {
+    text-align: center;
+}
+
+.content mat-card-content p {
+    text-align: center;
+}
+
+
+.content mat-card {
+    border: none !important;
+    box-shadow: none;
+}
+
+/* .example-button-row{
+            padding: 0 440px 70px 70px;
+        } */
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    color: #0F2345;
+    font-family: 'Libre','Franklin';
+    font-weight: 900;
+
+
+}
+
+/* Button css code  */
+::ng-deep .mat-raised-button{
+    background-color:#007d6f;
+width: 180px;
+height: 50px;
+}
+
+h3 ::ng-deep .mat-raised-button{
+margin-top: 30px;
+}
+
+.mat-raised-button{
+color: #fff;   
+font-size: 30px;
+font-family: 'Libre','Franklin';
+}
+    
 
 /* The code for the hero image */
 body {
@@ -8,15 +110,16 @@ body {
 	margin: 0;
 }
 
-.about .my h1{
-	position: absolute;
-	bottom: -60px;
-	left: 76px;
-}
 /* The code for the hero image */
 .back-video{
     width: 100%;
 }
+
+.back-video p{
+    float: right;
+    margin-top: -20px;
+}
+
 
 .container {
 	position: relative;
@@ -224,6 +327,36 @@ nav .icon-burger .line {
 
 @media screen and (max-width: 768px) {
 
+	.text-block {
+		position: absolute;
+		bottom: 350px;
+		left: 20px;
+		color: white;
+		padding-left: 20px;
+		padding-right: 20px;
+	  }
+	  .text-block p{
+		font-size: 50px;
+		 font-family: Libre, Franklin;
+		 line-height: 1.4;
+		}
+		.back-video p{
+			float: right;
+			margin-top: -20px;
+		}
+		
+		
+		.container {
+			position: relative;
+			margin-top: -10px;
+		}
+		
+		.container img {
+			display: block;
+			width: 100%;
+		}
+		
+
 	/* The sticky header css */
 /* .fixed{
 	display: none;
@@ -354,6 +487,35 @@ nav .icon-burger .line {
 .top{
 	display: none;
 }
+
+.text-block {
+	position: absolute;
+	bottom: 350px;
+	left: 20px;
+	color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+  }
+  .text-block p{
+	font-size: 50px;
+	 font-family: Libre, Franklin;
+	 line-height: 1.4;
+	}
+	.back-video p{
+		float: right;
+		margin-top: -20px;
+	}
+	
+	
+	.container {
+		position: relative;
+		margin-top: -10px;
+	}
+	
+	.container img {
+		display: block;
+		width: 100%;
+	}
 	
 }
 
@@ -420,5 +582,108 @@ nav .icon-burger .line {
 margin-top: -5px;
 }
 
+/* Add application styles & imports to this file! */
 
-     
+.bounds {
+	height :2800px;
+	width: 100%;
+	background: yellow;
+  }
+  
+  .bounds .sec1{
+	background: url("/assets/About/AVA_hex-background2_v2.svg");
+	/* min-height: calc( 100vh - 100% ); */
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin-top: -40px;
+  }
+
+  .bounds .sec1 p{
+  color: black;
+  font-size: 30px;
+  font-family: Libre, Franklin;
+  line-height: 1.4;
+  text-align: left;
+  width: 440px;
+  }
+
+  .bounds .sec3 p{
+	color: #fff;
+	font-size: 25px;
+	font-family: Libre, Franklin;
+	line-height: 1.4;
+	text-align: left;
+	width: 470px;
+	margin-left: 70px;
+	margin-top: 60px;
+	}
+  /* .bounds .sec2{
+	background: url("/assets/About/AVA_about_scalable.jpg");
+	min-height: calc( 100vh - 100% );
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+  } */
+
+  .bounds .sec3{
+	background: url("/assets/About/AVA_about_usability.jpg");
+	min-height: calc( 100vh - 100% );
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-top: 70px;
+  }
+
+  .bounds .sec4{
+	background: url("/assets/About/AVA_about_scalable.jpg");
+	min-height: calc( 100vh - 100% );
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+  }
+
+  .bounds .sec5{
+	background: url("/assets/About/AVA_about_analytics_.jpg");
+	min-height: calc( 100vh - 100% );
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+  }
+
+  /* .sec1 {
+	background: red;
+	color:white;
+	text-transform: uppercase;
+	width: 100%;
+
+  } */
+  
+  .sec2 {
+	margin-top: 70px;
+	
+  }
+  
+  .sec3 {
+	background: blue;
+	color:white;
+  }
+  
+
+  .sec4 p {
+	color: #fff;
+	font-size: 25px;
+	font-family: Libre, Franklin;
+	line-height: 1.4;
+	text-align: left;
+	width: 610px;
+	margin-left: 970px;
+	margin-top: 60px;
+  }
+
+  .bounds .sec5 p{
+	color: #fff;
+	font-size: 25px;
+	font-family: Libre, Franklin;
+	line-height: 1.4;
+	text-align: left;
+	width: 540px;
+	margin-left: 70px;
+	margin-top: 90px;
+	}
